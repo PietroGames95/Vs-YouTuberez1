@@ -1,0 +1,3 @@
+Dims the background, pretty self explanatory
+Value 1: put anything to fade out, leave blank to fade in
+Value 2: fade time in milliseconds (default is 0.0001)

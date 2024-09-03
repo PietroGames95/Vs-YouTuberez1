@@ -1,0 +1,3 @@
+Sets Camera Zoom Instantly
+
+Value 1: Cam zoom

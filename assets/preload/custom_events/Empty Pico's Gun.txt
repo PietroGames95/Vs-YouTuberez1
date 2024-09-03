@@ -1,0 +1,2 @@
+Empties Pico's gun to make sure he doesn't have more
+bullets than he's supposed to
