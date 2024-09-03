@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"power link",
+			"pietroV2",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"kaio ken",
+			"PietroV2",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"endless",
+			"PietroV2",
+			[
+				255,
+				120,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "Pietro",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "                            Pietro                             😎",
+	"weekName": "Pietro",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

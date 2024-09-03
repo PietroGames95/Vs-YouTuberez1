@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"the great punishment",
+			"caio",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"oh god no",
+			"caio",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"No Hope",
+			"caio",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "caio",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "                            Caio                              🤟",
+	"weekName": "Caio",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "Pietro",
+	"startUnlocked": true
+}

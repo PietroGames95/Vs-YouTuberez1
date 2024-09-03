@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Expurgation",
+			"Mathexs",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Vanishing",
+			"Mathexs",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"burning in hell",
+			"Mathexs",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "Mathexs",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "                            Mathexs                            😎",
+	"weekName": "Mathexs",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "Caio",
+	"startUnlocked": true
+}

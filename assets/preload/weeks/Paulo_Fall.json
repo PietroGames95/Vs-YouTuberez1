@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"milk",
+			"Paulo",
+			[
+				250,
+				0,
+				155
+			]
+		],
+		[
+			"sussus-toogus",
+			"Paulo",
+			[
+				255,
+				0,
+				155
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "Paulo",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Your New Week",
+	"weekName": "Paulo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
