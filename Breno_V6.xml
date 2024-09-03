@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Breno_V6.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="BF NOTE RIGHT0000" x="474" y="0" width="464" height="411" frameX="-71" frameY="-129" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="BF NOTE RIGHT0001" x="0" y="0" width="474" height="411" frameX="-55" frameY="-129" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="BF NOTE DOWN0000" x="469" y="864" width="470" height="360" frameX="-95" frameY="-180" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="BF NOTE DOWN0001" x="0" y="864" width="469" height="364" frameX="-97" frameY="-176" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="BF NOTE LEFT0000" x="938" y="0" width="417" height="412" frameX="-59" frameY="-127" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="BF NOTE LEFT0001" x="1355" y="0" width="415" height="408" frameX="-65" frameY="-131" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="BF idle dance0000" x="1355" y="813" width="410" height="401" frameX="-109" frameY="-164" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="BF idle dance0001" x="0" y="1228" width="408" height="401" frameX="-111" frameY="-164" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="BF idle dance0002" x="1355" y="408" width="412" height="405" frameX="-108" frameY="-160" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="BF idle dance0003" x="938" y="412" width="411" height="418" frameX="-109" frameY="-147" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="BF idle dance0004" x="938" y="412" width="411" height="418" frameX="-109" frameY="-147" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="BF idle dance0005" x="938" y="412" width="411" height="418" frameX="-109" frameY="-147" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="BF NOTE UP0000" x="411" y="411" width="406" height="451" frameX="-106" frameY="-99" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="BF NOTE UP0001" x="0" y="411" width="411" height="453" frameX="-96" frameY="-97" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>

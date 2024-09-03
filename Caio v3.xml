@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Caio v3.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="BF idle dance0003" x="2590" y="0" width="1181" height="1486" frameX="-128" frameY="-399" frameWidth="1536" frameHeight="2048"/>
+	<SubTexture name="BF idle dance0002" x="1392" y="0" width="1198" height="1472" frameX="-122" frameY="-414" frameWidth="1536" frameHeight="2048"/>
+	<SubTexture name="BF idle dance0001" x="3771" y="0" width="1209" height="1449" frameX="-121" frameY="-437" frameWidth="1536" frameHeight="2048"/>
+	<SubTexture name="BF idle dance0000" x="0" y="2781" width="1221" height="1422" frameX="-117" frameY="-464" frameWidth="1536" frameHeight="2048"/>
+	<SubTexture name="BF NOTE RIGHT0001" x="4980" y="1458" width="1084" height="1460" frameX="-307" frameY="-426" frameWidth="1536" frameHeight="2048"/>
+	<SubTexture name="BF NOTE RIGHT0000" x="4980" y="0" width="1101" height="1458" frameX="-316" frameY="-428" frameWidth="1536" frameHeight="2048"/>
+	<SubTexture name="BF NOTE UP0001" x="0" y="4203" width="973" height="1505" frameX="-310" frameY="-382" frameWidth="1536" frameHeight="2048"/>
+	<SubTexture name="BF NOTE UP0000" x="6081" y="0" width="956" height="1521" frameX="-320" frameY="-366" frameWidth="1536" frameHeight="2048"/>
+	<SubTexture name="BF NOTE DOWN0001" x="3771" y="1449" width="1141" height="1305" frameX="-182" frameY="-579" frameWidth="1536" frameHeight="2048"/>
+	<SubTexture name="BF NOTE DOWN0000" x="2590" y="1486" width="1155" height="1284" frameX="-177" frameY="-600" frameWidth="1536" frameHeight="2048"/>
+	<SubTexture name="BF NOTE LEFT0001" x="0" y="0" width="1392" height="1383" frameX="-59" frameY="-502" frameWidth="1536" frameHeight="2048"/>
+	<SubTexture name="BF NOTE LEFT0000" x="0" y="1383" width="1375" height="1398" frameX="-51" frameY="-487" frameWidth="1536" frameHeight="2048"/>
+</TextureAtlas>
